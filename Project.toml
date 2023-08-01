@@ -1,0 +1,24 @@
+name = "MyPackage_new"
+uuid = "4cfa1704-87c1-4c2a-90bf-b23d81510de6"
+BenchmarkTools = "1.3.0"
+CUDA = "3.5.1"
+Distributions = "0.24.18"
+JLD2 = "0.3.6"
+ProgressMeter = "1.5.0"
+PyPlot = "2.11.1"
+Random = "1.8.2"
+StaticArrays = "0.12.5"
+StatsBase = "0.33.8"
+authors = ["zaldivar"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+[Base]
+Threads = "1.0.0"
